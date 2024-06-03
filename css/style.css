@@ -128,7 +128,7 @@ padding-top: 20px;
 }
 .features .feat-box {
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
     margin-top: 30px;
     margin-bottom: 30px;
     gap: 30px;
@@ -212,7 +212,7 @@ padding-top: 20px;
 }
 .city{
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
     column-gap: 20px;
 }
 .card{
